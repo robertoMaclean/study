@@ -1,0 +1,13 @@
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/bin/Debug/netcoreapp3.1/SentenciaIfElseIf.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/bin/Debug/netcoreapp3.1/SentenciaIfElseIf.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/bin/Debug/netcoreapp3.1/SentenciaIfElseIf.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/bin/Debug/netcoreapp3.1/SentenciaIfElseIf.dll
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/bin/Debug/netcoreapp3.1/SentenciaIfElseIf.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/obj/Debug/netcoreapp3.1/SentenciaIfElseIf.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/obj/Debug/netcoreapp3.1/SentenciaIfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/obj/Debug/netcoreapp3.1/SentenciaIfElseIf.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/obj/Debug/netcoreapp3.1/SentenciaIfElseIf.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/obj/Debug/netcoreapp3.1/SentenciaIfElseIf.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/obj/Debug/netcoreapp3.1/SentenciaIfElseIf.dll
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/obj/Debug/netcoreapp3.1/SentenciaIfElseIf.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/SentenciaIfElseIf/SentenciaIfElseIf/obj/Debug/netcoreapp3.1/SentenciaIfElseIf.genruntimeconfig.cache

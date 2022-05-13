@@ -1,0 +1,13 @@
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/bin/Debug/netcoreapp3.1/variables.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/bin/Debug/netcoreapp3.1/variables.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/bin/Debug/netcoreapp3.1/variables.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/bin/Debug/netcoreapp3.1/variables.dll
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/bin/Debug/netcoreapp3.1/variables.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/obj/Debug/netcoreapp3.1/variables.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/obj/Debug/netcoreapp3.1/variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/obj/Debug/netcoreapp3.1/variables.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/obj/Debug/netcoreapp3.1/variables.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/obj/Debug/netcoreapp3.1/variables.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/obj/Debug/netcoreapp3.1/variables.dll
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/obj/Debug/netcoreapp3.1/variables.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/variables/variables/obj/Debug/netcoreapp3.1/variables.genruntimeconfig.cache

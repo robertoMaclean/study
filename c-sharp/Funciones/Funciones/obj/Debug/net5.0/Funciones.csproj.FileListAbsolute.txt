@@ -1,0 +1,15 @@
+/Users/robertomclean/Projects/Funciones/Funciones/bin/Debug/net5.0/Funciones.deps.json
+/Users/robertomclean/Projects/Funciones/Funciones/bin/Debug/net5.0/Funciones.runtimeconfig.json
+/Users/robertomclean/Projects/Funciones/Funciones/bin/Debug/net5.0/Funciones.runtimeconfig.dev.json
+/Users/robertomclean/Projects/Funciones/Funciones/bin/Debug/net5.0/Funciones.dll
+/Users/robertomclean/Projects/Funciones/Funciones/bin/Debug/net5.0/ref/Funciones.dll
+/Users/robertomclean/Projects/Funciones/Funciones/bin/Debug/net5.0/Funciones.pdb
+/Users/robertomclean/Projects/Funciones/Funciones/obj/Debug/net5.0/Funciones.csproj.AssemblyReference.cache
+/Users/robertomclean/Projects/Funciones/Funciones/obj/Debug/net5.0/Funciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Projects/Funciones/Funciones/obj/Debug/net5.0/Funciones.AssemblyInfoInputs.cache
+/Users/robertomclean/Projects/Funciones/Funciones/obj/Debug/net5.0/Funciones.AssemblyInfo.cs
+/Users/robertomclean/Projects/Funciones/Funciones/obj/Debug/net5.0/Funciones.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Projects/Funciones/Funciones/obj/Debug/net5.0/Funciones.dll
+/Users/robertomclean/Projects/Funciones/Funciones/obj/Debug/net5.0/ref/Funciones.dll
+/Users/robertomclean/Projects/Funciones/Funciones/obj/Debug/net5.0/Funciones.pdb
+/Users/robertomclean/Projects/Funciones/Funciones/obj/Debug/net5.0/Funciones.genruntimeconfig.cache
