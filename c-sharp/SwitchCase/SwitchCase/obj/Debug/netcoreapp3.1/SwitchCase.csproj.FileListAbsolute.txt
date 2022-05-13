@@ -1,0 +1,13 @@
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.dll
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.dll
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/SwitchCase/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.genruntimeconfig.cache

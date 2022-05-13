@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{EFC49A50-D88D-481A-ACE8-E501C602CC55}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SentenciaIfElseIf/Program.cs">
+﻿<Properties StartupConfiguration="{535362AE-8770-445E-8DE7-4641FE0CC9D2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwitchCase/Program.cs">
     <Files>
-      <File FileName="SentenciaIfElseIf/Program.cs" Line="17" Column="47" />
+      <File FileName="SwitchCase/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SentenciaIfElseIf" expanded="True">
-            <Node name="SentenciaIfElseIf" expanded="True">
+          <Node name="SwitchCase" expanded="True">
+            <Node name="SwitchCase" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,8 +18,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SwitchCase PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SentenciaIfElseIf PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
