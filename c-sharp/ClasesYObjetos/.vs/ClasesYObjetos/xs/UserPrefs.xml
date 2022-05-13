@@ -1,26 +1,23 @@
-﻿<Properties StartupConfiguration="{CC5C7E9C-F075-454C-A2A1-1889196A9CB2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="For/Program.cs">
+﻿<Properties StartupConfiguration="{DC4C3B42-C39F-4D9B-9B08-3649FCAE0568}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClasesYObjetos FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClasesYObjetos/Program.cs">
     <Files>
-      <File FileName="For/Program.cs" Line="13" Column="26" />
+      <File FileName="ClasesYObjetos/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="For" expanded="True">
-            <Node name="For" expanded="True">
+          <Node name="ClasesYObjetos" expanded="True">
+            <Node name="ClasesYObjetos" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.For PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
