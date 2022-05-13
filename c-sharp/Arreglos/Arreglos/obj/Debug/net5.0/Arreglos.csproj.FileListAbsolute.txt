@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/bin/Debug/net5.0/Arreglos.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/bin/Debug/net5.0/Arreglos.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/bin/Debug/net5.0/Arreglos.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/bin/Debug/net5.0/Arreglos.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/bin/Debug/net5.0/ref/Arreglos.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/bin/Debug/net5.0/Arreglos.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/obj/Debug/net5.0/Arreglos.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/obj/Debug/net5.0/Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/obj/Debug/net5.0/Arreglos.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/obj/Debug/net5.0/Arreglos.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/obj/Debug/net5.0/Arreglos.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/obj/Debug/net5.0/Arreglos.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/obj/Debug/net5.0/ref/Arreglos.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/obj/Debug/net5.0/Arreglos.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/obj/Debug/net5.0/Arreglos.genruntimeconfig.cache
