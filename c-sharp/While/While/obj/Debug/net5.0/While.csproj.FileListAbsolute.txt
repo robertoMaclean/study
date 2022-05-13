@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/bin/Debug/net5.0/While.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/bin/Debug/net5.0/While.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/bin/Debug/net5.0/While.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/bin/Debug/net5.0/While.dll
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/bin/Debug/net5.0/ref/While.dll
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/bin/Debug/net5.0/While.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/obj/Debug/net5.0/While.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/obj/Debug/net5.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/obj/Debug/net5.0/While.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/obj/Debug/net5.0/While.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/obj/Debug/net5.0/While.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/obj/Debug/net5.0/While.dll
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/obj/Debug/net5.0/ref/While.dll
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/obj/Debug/net5.0/While.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/While/While/obj/Debug/net5.0/While.genruntimeconfig.cache

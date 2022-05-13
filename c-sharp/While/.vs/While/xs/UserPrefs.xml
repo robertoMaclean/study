@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{09C39E1D-6496-45F8-BCAA-8296A39CAEE9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Arreglos/Program.cs">
+﻿<Properties StartupConfiguration="{41BF57D9-9C09-4921-A97D-20365EC6935A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="While/Program.cs">
     <Files>
-      <File FileName="Arreglos/Program.cs" Line="21" Column="14" />
+      <File FileName="While/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Arreglos" expanded="True">
-            <Node name="Arreglos" expanded="True">
+          <Node name="While" expanded="True">
+            <Node name="While" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -19,10 +19,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.While FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Arreglos PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
