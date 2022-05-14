@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/bin/Debug/net5.0/Sobrecarga.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/bin/Debug/net5.0/Sobrecarga.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/bin/Debug/net5.0/Sobrecarga.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/bin/Debug/net5.0/Sobrecarga.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/bin/Debug/net5.0/ref/Sobrecarga.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/bin/Debug/net5.0/Sobrecarga.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/obj/Debug/net5.0/Sobrecarga.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/obj/Debug/net5.0/Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/obj/Debug/net5.0/Sobrecarga.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/obj/Debug/net5.0/Sobrecarga.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/obj/Debug/net5.0/Sobrecarga.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/obj/Debug/net5.0/Sobrecarga.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/obj/Debug/net5.0/ref/Sobrecarga.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/obj/Debug/net5.0/Sobrecarga.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Sobrecarga/Sobrecarga/obj/Debug/net5.0/Sobrecarga.genruntimeconfig.cache

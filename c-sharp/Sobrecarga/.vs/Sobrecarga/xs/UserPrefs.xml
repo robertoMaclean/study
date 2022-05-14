@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{8FE491D2-A406-428D-AE90-3DF68BE0C742}|Default">
-  <MonoDevelop.Ide.ItemProperties.Herencia PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Herencia/Program.cs">
+﻿<Properties StartupConfiguration="{B6EC8B2D-292D-4E76-8FB6-134064A33B7D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sobrecarga FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sobrecarga/Program.cs">
     <Files>
-      <File FileName="Herencia/Program.cs" Line="15" Column="47" />
+      <File FileName="Sobrecarga/Program.cs" Line="13" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Herencia" expanded="True">
-            <Node name="Herencia" expanded="True">
+          <Node name="Sobrecarga" expanded="True">
+            <Node name="Sobrecarga" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
