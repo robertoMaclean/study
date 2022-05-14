@@ -18,7 +18,7 @@ namespace Propiedades
         int total;
         DateTime date;
 
-        public int Total
+        public int Total                
         {
             get
             {

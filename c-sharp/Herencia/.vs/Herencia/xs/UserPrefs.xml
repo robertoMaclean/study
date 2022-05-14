@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{76CCAF26-84A9-45E1-A9DA-A9F8329A667B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Propiedades/Program.cs">
+﻿<Properties StartupConfiguration="{8FE491D2-A406-428D-AE90-3DF68BE0C742}|Default">
+  <MonoDevelop.Ide.ItemProperties.Herencia FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Herencia/Program.cs">
     <Files>
-      <File FileName="Propiedades/Program.cs" Line="26" Column="14" />
+      <File FileName="Herencia/Program.cs" Line="9" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Propiedades" expanded="True">
-            <Node name="Propiedades" expanded="True">
+          <Node name="Herencia" expanded="True">
+            <Node name="Herencia" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,7 +18,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Propiedades PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

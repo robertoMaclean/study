@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/bin/Debug/net5.0/Herencia.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/bin/Debug/net5.0/Herencia.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/bin/Debug/net5.0/Herencia.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/bin/Debug/net5.0/Herencia.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/bin/Debug/net5.0/ref/Herencia.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/bin/Debug/net5.0/Herencia.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/obj/Debug/net5.0/Herencia.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/obj/Debug/net5.0/Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/obj/Debug/net5.0/Herencia.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/obj/Debug/net5.0/Herencia.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/obj/Debug/net5.0/Herencia.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/obj/Debug/net5.0/Herencia.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/obj/Debug/net5.0/ref/Herencia.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/obj/Debug/net5.0/Herencia.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Herencia/Herencia/obj/Debug/net5.0/Herencia.genruntimeconfig.cache
