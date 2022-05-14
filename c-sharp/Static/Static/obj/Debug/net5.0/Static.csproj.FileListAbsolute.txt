@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/bin/Debug/net5.0/Static.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/bin/Debug/net5.0/Static.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/bin/Debug/net5.0/Static.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/bin/Debug/net5.0/Static.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/bin/Debug/net5.0/ref/Static.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/bin/Debug/net5.0/Static.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/obj/Debug/net5.0/Static.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/obj/Debug/net5.0/Static.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/obj/Debug/net5.0/Static.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/obj/Debug/net5.0/Static.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/obj/Debug/net5.0/Static.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/obj/Debug/net5.0/Static.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/obj/Debug/net5.0/ref/Static.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/obj/Debug/net5.0/Static.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Static/Static/obj/Debug/net5.0/Static.genruntimeconfig.cache
