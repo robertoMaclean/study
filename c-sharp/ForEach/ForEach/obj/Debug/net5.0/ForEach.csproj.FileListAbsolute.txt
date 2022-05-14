@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/bin/Debug/net5.0/ForEach.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/bin/Debug/net5.0/ForEach.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/bin/Debug/net5.0/ForEach.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/bin/Debug/net5.0/ForEach.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/bin/Debug/net5.0/ref/ForEach.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/bin/Debug/net5.0/ForEach.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/obj/Debug/net5.0/ForEach.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/obj/Debug/net5.0/ForEach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/obj/Debug/net5.0/ForEach.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/obj/Debug/net5.0/ForEach.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/obj/Debug/net5.0/ForEach.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/obj/Debug/net5.0/ForEach.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/obj/Debug/net5.0/ref/ForEach.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/obj/Debug/net5.0/ForEach.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/ForEach/ForEach/obj/Debug/net5.0/ForEach.genruntimeconfig.cache

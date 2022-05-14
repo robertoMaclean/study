@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/bin/Debug/net5.0/ListCommonMethods.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/bin/Debug/net5.0/ListCommonMethods.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/bin/Debug/net5.0/ListCommonMethods.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/bin/Debug/net5.0/ListCommonMethods.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/bin/Debug/net5.0/ref/ListCommonMethods.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/bin/Debug/net5.0/ListCommonMethods.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/obj/Debug/net5.0/ListCommonMethods.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/obj/Debug/net5.0/ListCommonMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/obj/Debug/net5.0/ListCommonMethods.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/obj/Debug/net5.0/ListCommonMethods.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/obj/Debug/net5.0/ListCommonMethods.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/obj/Debug/net5.0/ListCommonMethods.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/obj/Debug/net5.0/ref/ListCommonMethods.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/obj/Debug/net5.0/ListCommonMethods.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/ListCommonMethods/ListCommonMethods/obj/Debug/net5.0/ListCommonMethods.genruntimeconfig.cache
