@@ -11,13 +11,11 @@ namespace Static
                 Name = "Rob",
                 Age = 50
             };
-            Console.WriteLine(People.Count);
             People people2 = new People()
             {
                 Name = "Pedrito jr.",
                 Age = 15
             };
-            Console.WriteLine(People.Count);
             Console.WriteLine(People.GetCount());
         }
     }

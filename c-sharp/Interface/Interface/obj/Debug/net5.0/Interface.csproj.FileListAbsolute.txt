@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/bin/Debug/net5.0/Interface.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/bin/Debug/net5.0/Interface.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/bin/Debug/net5.0/Interface.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/bin/Debug/net5.0/Interface.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/bin/Debug/net5.0/ref/Interface.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/bin/Debug/net5.0/Interface.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/obj/Debug/net5.0/Interface.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/obj/Debug/net5.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/obj/Debug/net5.0/Interface.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/obj/Debug/net5.0/Interface.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/obj/Debug/net5.0/Interface.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/obj/Debug/net5.0/Interface.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/obj/Debug/net5.0/ref/Interface.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/obj/Debug/net5.0/Interface.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Interface/Interface/obj/Debug/net5.0/Interface.genruntimeconfig.cache
