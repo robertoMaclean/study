@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/bin/Debug/net5.0/Lists.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/bin/Debug/net5.0/Lists.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/bin/Debug/net5.0/Lists.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/bin/Debug/net5.0/Lists.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/bin/Debug/net5.0/ref/Lists.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/bin/Debug/net5.0/Lists.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/obj/Debug/net5.0/Lists.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/obj/Debug/net5.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/obj/Debug/net5.0/Lists.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/obj/Debug/net5.0/Lists.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/obj/Debug/net5.0/Lists.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/obj/Debug/net5.0/Lists.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/obj/Debug/net5.0/ref/Lists.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/obj/Debug/net5.0/Lists.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Lists/Lists/obj/Debug/net5.0/Lists.genruntimeconfig.cache
