@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/bin/Debug/net5.0/Sobreescritura.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/bin/Debug/net5.0/Sobreescritura.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/bin/Debug/net5.0/Sobreescritura.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/bin/Debug/net5.0/Sobreescritura.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/bin/Debug/net5.0/ref/Sobreescritura.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/bin/Debug/net5.0/Sobreescritura.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/obj/Debug/net5.0/Sobreescritura.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/obj/Debug/net5.0/Sobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/obj/Debug/net5.0/Sobreescritura.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/obj/Debug/net5.0/Sobreescritura.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/obj/Debug/net5.0/Sobreescritura.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/obj/Debug/net5.0/Sobreescritura.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/obj/Debug/net5.0/ref/Sobreescritura.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/obj/Debug/net5.0/Sobreescritura.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/obj/Debug/net5.0/Sobreescritura.genruntimeconfig.cache

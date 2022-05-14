@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{B6EC8B2D-292D-4E76-8FB6-134064A33B7D}|Default">
-  <MonoDevelop.Ide.ItemProperties.Sobrecarga PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Sobrecarga/Program.cs">
+﻿<Properties StartupConfiguration="{69C03EFB-4743-40AC-AEAD-37FE7CAC2902}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sobreescritura/Program.cs">
     <Files>
-      <File FileName="Sobrecarga/Program.cs" Line="15" Column="10" />
+      <File FileName="Sobreescritura/Program.cs" Line="13" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Sobrecarga" expanded="True">
-            <Node name="Sobrecarga" expanded="True">
+          <Node name="Sobreescritura" expanded="True">
+            <Node name="Sobreescritura" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sobreescritura FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
