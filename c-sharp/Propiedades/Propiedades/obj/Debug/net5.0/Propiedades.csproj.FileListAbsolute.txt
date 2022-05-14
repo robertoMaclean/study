@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/bin/Debug/net5.0/Propiedades.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/bin/Debug/net5.0/Propiedades.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/bin/Debug/net5.0/Propiedades.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/bin/Debug/net5.0/Propiedades.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/bin/Debug/net5.0/ref/Propiedades.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/bin/Debug/net5.0/Propiedades.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/obj/Debug/net5.0/Propiedades.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/obj/Debug/net5.0/Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/obj/Debug/net5.0/Propiedades.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/obj/Debug/net5.0/Propiedades.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/obj/Debug/net5.0/Propiedades.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/obj/Debug/net5.0/Propiedades.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/obj/Debug/net5.0/ref/Propiedades.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/obj/Debug/net5.0/Propiedades.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Propiedades/Propiedades/obj/Debug/net5.0/Propiedades.genruntimeconfig.cache

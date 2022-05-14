@@ -7,7 +7,7 @@ namespace ClasesYObjetos
         static void Main(string[] args)
         {
             Sale sale = new Sale(100, DateTime.Now);
-            string showInfo = sale.ShowInfo();
+            string showInfo = sale.GetInfo();
             Console.WriteLine(showInfo);
         }
     }
@@ -23,7 +23,7 @@ namespace ClasesYObjetos
             this.date = date;
         }
 
-        public string ShowInfo()
+        public string GetInfo()
         {
             return this.total + " " + this.date.ToLongDateString();
         }
