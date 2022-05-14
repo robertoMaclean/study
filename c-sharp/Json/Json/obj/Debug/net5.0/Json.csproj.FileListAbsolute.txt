@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/bin/Debug/net5.0/Json.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/bin/Debug/net5.0/Json.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/bin/Debug/net5.0/Json.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/bin/Debug/net5.0/Json.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/bin/Debug/net5.0/ref/Json.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/bin/Debug/net5.0/Json.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/obj/Debug/net5.0/Json.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/obj/Debug/net5.0/Json.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/obj/Debug/net5.0/Json.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/obj/Debug/net5.0/Json.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/obj/Debug/net5.0/Json.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/obj/Debug/net5.0/Json.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/obj/Debug/net5.0/ref/Json.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/obj/Debug/net5.0/Json.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Json/Json/obj/Debug/net5.0/Json.genruntimeconfig.cache
