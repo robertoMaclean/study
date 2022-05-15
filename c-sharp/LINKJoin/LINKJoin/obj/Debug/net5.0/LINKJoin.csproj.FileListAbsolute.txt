@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/bin/Debug/net5.0/LINKJoin.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/bin/Debug/net5.0/LINKJoin.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/bin/Debug/net5.0/LINKJoin.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/bin/Debug/net5.0/LINKJoin.dll
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/bin/Debug/net5.0/ref/LINKJoin.dll
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/bin/Debug/net5.0/LINKJoin.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/obj/Debug/net5.0/LINKJoin.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/obj/Debug/net5.0/LINKJoin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/obj/Debug/net5.0/LINKJoin.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/obj/Debug/net5.0/LINKJoin.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/obj/Debug/net5.0/LINKJoin.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/obj/Debug/net5.0/LINKJoin.dll
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/obj/Debug/net5.0/ref/LINKJoin.dll
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/obj/Debug/net5.0/LINKJoin.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/LINKJoin/LINKJoin/obj/Debug/net5.0/LINKJoin.genruntimeconfig.cache
