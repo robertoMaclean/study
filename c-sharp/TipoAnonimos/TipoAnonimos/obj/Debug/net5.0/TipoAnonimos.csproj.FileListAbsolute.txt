@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/bin/Debug/net5.0/TipoAnonimos.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/bin/Debug/net5.0/TipoAnonimos.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/bin/Debug/net5.0/TipoAnonimos.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/bin/Debug/net5.0/TipoAnonimos.dll
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/bin/Debug/net5.0/ref/TipoAnonimos.dll
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/bin/Debug/net5.0/TipoAnonimos.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/obj/Debug/net5.0/TipoAnonimos.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/obj/Debug/net5.0/TipoAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/obj/Debug/net5.0/TipoAnonimos.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/obj/Debug/net5.0/TipoAnonimos.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/obj/Debug/net5.0/TipoAnonimos.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/obj/Debug/net5.0/TipoAnonimos.dll
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/obj/Debug/net5.0/ref/TipoAnonimos.dll
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/obj/Debug/net5.0/TipoAnonimos.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/TipoAnonimos/TipoAnonimos/obj/Debug/net5.0/TipoAnonimos.genruntimeconfig.cache

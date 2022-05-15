@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/bin/Debug/net5.0/Tuplas.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/bin/Debug/net5.0/Tuplas.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/bin/Debug/net5.0/Tuplas.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/bin/Debug/net5.0/Tuplas.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/bin/Debug/net5.0/ref/Tuplas.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/bin/Debug/net5.0/Tuplas.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/obj/Debug/net5.0/Tuplas.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/obj/Debug/net5.0/Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/obj/Debug/net5.0/Tuplas.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/obj/Debug/net5.0/Tuplas.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/obj/Debug/net5.0/Tuplas.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/obj/Debug/net5.0/Tuplas.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/obj/Debug/net5.0/ref/Tuplas.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/obj/Debug/net5.0/Tuplas.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Tuplas/Tuplas/obj/Debug/net5.0/Tuplas.genruntimeconfig.cache

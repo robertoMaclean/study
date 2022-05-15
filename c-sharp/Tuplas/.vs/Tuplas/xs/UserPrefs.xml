@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A1DE46BB-2756-4D05-BBE6-90C6B91D1099}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tuplas/Program.cs">
+    <Files>
+      <File FileName="Tuplas/Program.cs" Line="12" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tuplas" expanded="True">
+            <Node name="Tuplas" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tuplas PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
