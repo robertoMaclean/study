@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/bin/Debug/net5.0/ExcepcionesPersonalizadas.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/bin/Debug/net5.0/ExcepcionesPersonalizadas.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/bin/Debug/net5.0/ExcepcionesPersonalizadas.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/bin/Debug/net5.0/ExcepcionesPersonalizadas.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/bin/Debug/net5.0/ref/ExcepcionesPersonalizadas.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/bin/Debug/net5.0/ExcepcionesPersonalizadas.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/obj/Debug/net5.0/ExcepcionesPersonalizadas.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/obj/Debug/net5.0/ExcepcionesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/obj/Debug/net5.0/ExcepcionesPersonalizadas.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/obj/Debug/net5.0/ExcepcionesPersonalizadas.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/obj/Debug/net5.0/ExcepcionesPersonalizadas.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/obj/Debug/net5.0/ExcepcionesPersonalizadas.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/obj/Debug/net5.0/ref/ExcepcionesPersonalizadas.dll
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/obj/Debug/net5.0/ExcepcionesPersonalizadas.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/ExcepcionesPersonalizadas/ExcepcionesPersonalizadas/obj/Debug/net5.0/ExcepcionesPersonalizadas.genruntimeconfig.cache

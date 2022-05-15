@@ -24,6 +24,10 @@ namespace Excepciones
             {
                 Console.WriteLine(ex.Message);
             }
+            finally
+            {
+                Console.WriteLine("Aquí me he ejecutado pase lo que pase");
+            }
            
         }
     }
