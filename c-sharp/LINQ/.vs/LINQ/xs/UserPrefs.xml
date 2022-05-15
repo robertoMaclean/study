@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{F4188861-75A4-4A99-AC99-9A4A3173B683}|Default">
-  <MonoDevelop.Ide.ItemProperties.ExcepcionesPersonalizadas PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ExcepcionesPersonalizadas/Program.cs">
+﻿<Properties StartupConfiguration="{3A7A52A4-6866-4717-95A2-478FEECE4061}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQ/Program.cs">
     <Files>
-      <File FileName="ExcepcionesPersonalizadas/Program.cs" Line="35" Column="1" />
+      <File FileName="LINQ/Program.cs" Line="11" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ExcepcionesPersonalizadas" expanded="True">
-            <Node name="ExcepcionesPersonalizadas" expanded="True">
+          <Node name="LINQ" expanded="True">
+            <Node name="LINQ" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LINQ FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
