@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{A1DE46BB-2756-4D05-BBE6-90C6B91D1099}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tuplas/Program.cs">
+﻿<Properties StartupConfiguration="{ED545097-ADA3-40FA-88D4-F787AE25394E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Excepciones/Program.cs">
     <Files>
-      <File FileName="Tuplas/Program.cs" Line="41" Column="36" />
+      <File FileName="Excepciones/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Tuplas" expanded="True">
-            <Node name="Tuplas" expanded="True">
+          <Node name="Excepciones" expanded="True">
+            <Node name="Excepciones" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,9 +17,9 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Excepciones FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Tuplas PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

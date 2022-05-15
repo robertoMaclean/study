@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/Excepciones.csproj": {}
+  },
+  "projects": {
+    "/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/Excepciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/Excepciones.csproj",
+        "projectName": "Excepciones",
+        "projectPath": "/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/Excepciones.csproj",
+        "packagesPath": "/Users/robertomclean/.nuget/packages/",
+        "outputPath": "/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robertomclean/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

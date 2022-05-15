@@ -1,0 +1,15 @@
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/bin/Debug/net5.0/Excepciones.deps.json
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/bin/Debug/net5.0/Excepciones.runtimeconfig.json
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/bin/Debug/net5.0/Excepciones.runtimeconfig.dev.json
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/bin/Debug/net5.0/Excepciones.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/bin/Debug/net5.0/ref/Excepciones.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/bin/Debug/net5.0/Excepciones.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/obj/Debug/net5.0/Excepciones.csproj.AssemblyReference.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/obj/Debug/net5.0/Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/obj/Debug/net5.0/Excepciones.AssemblyInfoInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/obj/Debug/net5.0/Excepciones.AssemblyInfo.cs
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/obj/Debug/net5.0/Excepciones.csproj.CoreCompileInputs.cache
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/obj/Debug/net5.0/Excepciones.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/obj/Debug/net5.0/ref/Excepciones.dll
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/obj/Debug/net5.0/Excepciones.pdb
+/Users/robertomclean/Code/rob/study/c-sharp/Excepciones/Excepciones/obj/Debug/net5.0/Excepciones.genruntimeconfig.cache
