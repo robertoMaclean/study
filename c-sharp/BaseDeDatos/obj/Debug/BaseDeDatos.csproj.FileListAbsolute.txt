@@ -1,0 +1,7 @@
+E:\Code\study\c-sharp\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.AssemblyReference.cache
+E:\Code\study\c-sharp\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+E:\Code\study\c-sharp\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+E:\Code\study\c-sharp\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+E:\Code\study\c-sharp\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+E:\Code\study\c-sharp\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+E:\Code\study\c-sharp\BaseDeDatos\obj\Debug\BaseDeDatos.pdb

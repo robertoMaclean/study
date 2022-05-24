@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.SqlClient;
 
 namespace BaseDeDatos
 {
@@ -26,7 +21,7 @@ namespace BaseDeDatos
 
         public void Close()
         {
-            if(_connection != null && _connection.State == System.Data.ConnectionState.Open)
+            if (_connection != null && _connection.State == System.Data.ConnectionState.Open)
                 _connection.Close();
         }
     }

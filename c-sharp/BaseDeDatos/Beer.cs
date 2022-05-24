@@ -17,6 +17,12 @@ namespace BaseDeDatos
             Id = id;
             Name = name;
             BrandId = brandId;
-        }   
+        }
+
+        public Beer(string name, int brandId)
+        {
+            Name = name;
+            BrandId = brandId;
+        }
     }
 }
