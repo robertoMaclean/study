@@ -3,14 +3,86 @@
 */
 
 /*Selector universal*/
-*{
+* {
   font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 
 /*Selector de etiqueta*/
+h1 {
+  background: red;
+  color: white;
+  padding: 10px;
+}
+
+a {
+  font-size: 18px;
+  color: green;
+  text-decoration: none;
+}
+
+footer a {
+  color: red;
+}
 
 /*Selector de id*/
+#descripcion {
+  border: 1px solid black;
+}
+
+#titulo {
+  background: blue;
+  border: 2px dashed white;
+}
 
 /*Selector de clase*/
+.parrafo {
+  font-style: italic;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.parrofo2, .parrafo3 {
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
+
+.parrafo3 {
+  background-color: orange;
+  color: black;
+}
 
 /*Selector de atributo*/
+#usuario form {
+  border: 5px solid blue;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 20px;
+}
+
+#usuario form * {
+  display: block;
+}
+
+input[type="text"]{
+  margin-bottom: 15px;
+  padding: 15px;
+  width: 300px;
+}
+
+input[type="submit"]{
+  background-color: green;
+  color: white;
+  padding: 15px;
+  font-size: 15px;
+  text-transform: uppercase;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+/*Selector hijo*/
+#menu > li > a {
+  font-size: 15px;
+  color: red;
+  text-decoration: none;
+}
