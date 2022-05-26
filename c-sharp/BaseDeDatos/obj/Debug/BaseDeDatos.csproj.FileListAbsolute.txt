@@ -5,3 +5,4 @@ E:\Code\study\c-sharp\BaseDeDatos\bin\Debug\BaseDeDatos.exe
 E:\Code\study\c-sharp\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
 E:\Code\study\c-sharp\BaseDeDatos\obj\Debug\BaseDeDatos.exe
 E:\Code\study\c-sharp\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+E:\Code\study\c-sharp\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.SuggestedBindingRedirects.cache

@@ -30,6 +30,9 @@ namespace BaseDeDatos
                         case 3:
                             Edit(beerDB);
                             break;
+                        case 4:
+                            Delete(beerDB);
+                            break;
                         case 5:
                             again = false;
                             break;
@@ -94,6 +97,26 @@ namespace BaseDeDatos
                 beer.Name = name;
                 beer.BrandId = brandId;
                 beerDB.Edit(beer);
+            }
+            else
+            {
+                Console.WriteLine("La cerveza no existe");
+            }
+
+        }
+
+        public static void Delete(BeerDB beerDB)
+        {
+            Console.Clear();
+            Show(beerDB);
+            Console.WriteLine("Eliminar Cerveza");
+            Console.WriteLine("Escribe el id de tu cerveza a eliminar: ");
+            int id = int.Parse(Console.ReadLine());
+
+            Beer beer = beerDB.Get(id);
+            if (beer != null)
+            {
+                beerDB.Delete(id);
             }
             else
             {
