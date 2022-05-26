@@ -86,3 +86,13 @@ input[type="submit"]{
   color: red;
   text-decoration: none;
 }
+
+/*Prioridad*/
+
+#saludo h1 {
+  background: brown;
+}
+
+h1 {
+  background: purple !important;
+}
