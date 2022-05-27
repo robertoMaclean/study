@@ -1,0 +1,14 @@
+E:\Code\study\c-sharp\BD\bin\Debug\net6.0\BD.deps.json
+E:\Code\study\c-sharp\BD\bin\Debug\net6.0\BD.runtimeconfig.json
+E:\Code\study\c-sharp\BD\bin\Debug\net6.0\BD.dll
+E:\Code\study\c-sharp\BD\bin\Debug\net6.0\BD.pdb
+E:\Code\study\c-sharp\BD\obj\Debug\net6.0\BD.csproj.AssemblyReference.cache
+E:\Code\study\c-sharp\BD\obj\Debug\net6.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\study\c-sharp\BD\obj\Debug\net6.0\BD.AssemblyInfoInputs.cache
+E:\Code\study\c-sharp\BD\obj\Debug\net6.0\BD.AssemblyInfo.cs
+E:\Code\study\c-sharp\BD\obj\Debug\net6.0\BD.csproj.CoreCompileInputs.cache
+E:\Code\study\c-sharp\BD\obj\Debug\net6.0\BD.dll
+E:\Code\study\c-sharp\BD\obj\Debug\net6.0\refint\BD.dll
+E:\Code\study\c-sharp\BD\obj\Debug\net6.0\BD.pdb
+E:\Code\study\c-sharp\BD\obj\Debug\net6.0\BD.genruntimeconfig.cache
+E:\Code\study\c-sharp\BD\obj\Debug\net6.0\ref\BD.dll

@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/robertomclean/.nuget/packages/": {}
+    "C:\\Users\\rob\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/Sobreescritura.csproj",
+      "projectUniqueName": "E:\\Code\\study\\c-sharp\\Sobreescritura\\Sobreescritura\\Sobreescritura.csproj",
       "projectName": "Sobreescritura",
-      "projectPath": "/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/Sobreescritura.csproj",
-      "packagesPath": "/Users/robertomclean/.nuget/packages/",
-      "outputPath": "/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/obj/",
+      "projectPath": "E:\\Code\\study\\c-sharp\\Sobreescritura\\Sobreescritura\\Sobreescritura.csproj",
+      "packagesPath": "C:\\Users\\rob\\.nuget\\packages\\",
+      "outputPath": "E:\\Code\\study\\c-sharp\\Sobreescritura\\Sobreescritura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/robertomclean/.config/NuGet/NuGet.Config"
+        "C:\\Users\\rob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -53,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

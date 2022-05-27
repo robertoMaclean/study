@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+XWDIVxUn5oAAmuvD1xjnZ+hAqeBqp/G+Xj/2WKSZECCBBxsXMjOjqQcHPADtG/IfUTzP1HNkMo72fZm8T1R+Q==",
+  "dgSpecHash": "QrzjOxMT8SisNBeu+OaWk459Ysc85Zz1Y0y+oWdZG4OvT/IK6fqTM2bkMLd7ByzFhUIW4e5Dc9N9Vlnw5ar8aQ==",
   "success": true,
-  "projectFilePath": "/Users/robertomclean/Code/rob/study/c-sharp/Sobreescritura/Sobreescritura/Sobreescritura.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Code\\study\\c-sharp\\Sobreescritura\\Sobreescritura\\Sobreescritura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

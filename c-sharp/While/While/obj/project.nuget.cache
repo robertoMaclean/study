@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8DtTdqvpzsoeSd0yS8IeP+OUeVSlATm3ZQIxtIP8Lwnbw4zSHAZE9zDmASbxyDEHByi+r0VZ3SaaBkKBAbR4QQ==",
+  "dgSpecHash": "itKBz5MjRgfM8vifalq0Ax4kIG4TNxIm/tkkNAprJj2GEDWml9JvPx5mWShwZ23NYkhD/8rMEpTSMNRE/r0yfA==",
   "success": true,
-  "projectFilePath": "/Users/robertomclean/Code/rob/study/c-sharp/While/While/While.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Code\\study\\c-sharp\\While\\While\\While.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

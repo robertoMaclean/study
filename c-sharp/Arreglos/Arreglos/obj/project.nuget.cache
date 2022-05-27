@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2jo5trvJB3lePiwBajhfWZXGHiGlz4OlbCdhOiqcT+cSB7j9h+phHM6j680JdchE1MnAbvcLli23mr9FJT6Kcg==",
+  "dgSpecHash": "bqkvSDOG3XoJgrW5NXTtDnEwHRVFnICXYCHrOkPdss6SvP/koggaiZHLI7tKa0kuHAMWdioQ3NVZ7KepsOgbGw==",
   "success": true,
-  "projectFilePath": "/Users/robertomclean/Code/rob/study/c-sharp/Arreglos/Arreglos/Arreglos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Code\\study\\c-sharp\\Arreglos\\Arreglos\\Arreglos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
