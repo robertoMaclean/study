@@ -29,6 +29,9 @@ namespace EntityFrameworkSystem
                     case 3:
                         Edit(optionBuilder);
                         break;
+                    case 4:
+                        Delete(optionBuilder);
+                        break;
                     case 5:
                         again = false;
                         break;
@@ -107,9 +110,27 @@ namespace EntityFrameworkSystem
             }
         }
 
-        public static void Delete()
+        public static void Delete(DbContextOptionsBuilder<CsharpDBContext> optionBuilder)
         {
+            Console.Clear();
+            Show(optionBuilder);
+            Console.WriteLine("Eliminar cerveza");
+            Console.WriteLine("Escribe el id de la cerveza a eliminar:");
+            int id = int.Parse(Console.ReadLine());
 
+            using (var context = new CsharpDBContext(optionBuilder.Options))
+            {
+                Beer beer = context.Beers.Find(id);
+                if(beer != null)
+                {
+                    context.Beers.Remove(beer);
+                    context.SaveChanges();
+                }
+                else
+                {
+                    Console.WriteLine("Cerveza no existe");
+                }
+            }
         }
     }
 }
