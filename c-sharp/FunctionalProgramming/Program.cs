@@ -7,8 +7,22 @@ cw += Functions.ConsoleShow;
 
 // Functions.Some("Juan", "Carlitos", cw);
 #region Action
+string hi = "Hola";
 Action<string> showMessage = Console.WriteLine;
-Functions.Some("Rob", "Mac", showMessage);
+Action<string, string> showMessage2 = (a, b) => Console.WriteLine($"{hi} {a} {b}");
+
+Action<string, string, string> showMessage3 = (a, b, c) => Console.WriteLine($"{a} {b} {c}");
+// showMessage2("Rob", "Mac");
+// showMessage3("Rob", "Mac", "Junior");
+// Functions.SomeAction("Rob", "Mac", (a) => Console.WriteLine("Soy una expresion lambda " + a));
+// Functions.SomeAction("Rob", "Mac", showMessage);
+#endregion
+#region Func
+Func<int> numberRandom = () => new Random().Next(0, 100);
+Func<int, int> numberRandomLimit = (limit) => new Random().Next(0, limit);
+
+Console.WriteLine(numberRandom());
+Console.WriteLine(numberRandomLimit(10000));
 #endregion
 #region Delegados
 delegate int Operation(int a, int b);
@@ -23,7 +37,7 @@ public class Functions
     public static int Mul(int x, int y) => x * y;
     public static void ConsoleShow(string m) => Console.WriteLine(m.ToUpper());
 
-    public static void Some(string name, string lastName, Action<string> fn)
+    public static void SomeAction(string name, string lastName, Action<string> fn)
     {
         Console.WriteLine("Hago algo al inicio");
         fn($"Hola {name} {lastName}");
