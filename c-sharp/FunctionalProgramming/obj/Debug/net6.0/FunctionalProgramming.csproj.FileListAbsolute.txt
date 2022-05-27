@@ -1,0 +1,15 @@
+E:\Code\study\c-sharp\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.exe
+E:\Code\study\c-sharp\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.deps.json
+E:\Code\study\c-sharp\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.runtimeconfig.json
+E:\Code\study\c-sharp\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.dll
+E:\Code\study\c-sharp\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.pdb
+E:\Code\study\c-sharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.AssemblyReference.cache
+E:\Code\study\c-sharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\study\c-sharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfoInputs.cache
+E:\Code\study\c-sharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfo.cs
+E:\Code\study\c-sharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+E:\Code\study\c-sharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.dll
+E:\Code\study\c-sharp\FunctionalProgramming\obj\Debug\net6.0\refint\FunctionalProgramming.dll
+E:\Code\study\c-sharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.pdb
+E:\Code\study\c-sharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.genruntimeconfig.cache
+E:\Code\study\c-sharp\FunctionalProgramming\obj\Debug\net6.0\ref\FunctionalProgramming.dll
