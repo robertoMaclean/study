@@ -17,12 +17,30 @@ Action<string, string, string> showMessage3 = (a, b, c) => Console.WriteLine($"{
 // Functions.SomeAction("Rob", "Mac", (a) => Console.WriteLine("Soy una expresion lambda " + a));
 // Functions.SomeAction("Rob", "Mac", showMessage);
 #endregion
+
 #region Func
 Func<int> numberRandom = () => new Random().Next(0, 100);
 Func<int, int> numberRandomLimit = (limit) => new Random().Next(0, limit);
 
-Console.WriteLine(numberRandom());
-Console.WriteLine(numberRandomLimit(10000));
+// Console.WriteLine(numberRandom());
+// Console.WriteLine(numberRandomLimit(10000));
+#endregion
+
+#region Predicate
+Predicate<string> hasSpaceOrA = (word) => word.Contains(" ") || word.ToUpper().Contains("A");
+Console.WriteLine(hasSpaceOrA("beear"));
+Console.WriteLine(hasSpaceOrA("p ati to"));
+
+var words = new List<string>()
+{
+    "beer",
+    "patito",
+    "sandia",
+    "hola mundo",
+    "c#"
+};
+var wordsNew = words.FindAll((w) => !hasSpaceOrA(w));
+foreach (var w in wordsNew) Console.WriteLine(w);
 #endregion
 #region Delegados
 delegate int Operation(int a, int b);
