@@ -23,6 +23,15 @@ namespace EntityFrameworkSystem
                     case 1:
                         Show(optionBuilder);
                         break;
+                    case 2:
+                        Add(optionBuilder);
+                        break;
+                    case 3:
+                        Edit(optionBuilder);
+                        break;
+                    case 5:
+                        again = false;
+                        break;
                 }
             } while (again);
         }
@@ -42,22 +51,60 @@ namespace EntityFrameworkSystem
             Console.WriteLine("Cervezas en la base de datos");
             using (var context = new CsharpDBContext(optionBuilder.Options))
             {
-                List<Beer> beers = context.Beers.OrderBy(beer => beer.Name).ToList();
+                List<Beer> beers = context.Beers.OrderBy(beer => beer.Name).Include(beer => beer.Brand).ToList();
                 foreach(var beer in beers)
                 {
-                    Console.WriteLine($"{beer.Id} - {beer.Name}");
+                    Console.WriteLine($"{beer.Id} - {beer.Name} {beer.Brand.Name}");
                 }
             }
         }
 
-        public static void Add()
+        public static void Add(DbContextOptionsBuilder<CsharpDBContext> optionBuilder)
         {
-           
+            Console.Clear();
+            Console.WriteLine("Agregar nueva cerveza");
+            Console.WriteLine("Escribe el nombre:");
+            string name = Console.ReadLine();
+            Console.WriteLine("Escribe el id de la marca:");
+            int brandId = int.Parse(Console.ReadLine());
+            using (var context = new CsharpDBContext(optionBuilder.Options))
+            {
+                Beer beer = new Beer()
+                {
+                    Name = name,
+                    BrandId = brandId
+                };
+                context.Add(beer);
+                context.SaveChanges();
+            }
         }
 
-        public static void Edit()
+        public static void Edit(DbContextOptionsBuilder<CsharpDBContext> optionBuilder)
         {
-           
+            Console.Clear();
+            Show(optionBuilder);
+            Console.WriteLine("Editar cerveza");
+            Console.WriteLine("Escribe el id de tu cerveza a editar");
+            int id = int.Parse(Console.ReadLine());
+            using(var context = new CsharpDBContext(optionBuilder.Options))
+            {
+                Beer beer = context.Beers.Find(id);
+                if(beer != null)
+                {
+                    Console.WriteLine("Escribe el nombre:");
+                    string name = Console.ReadLine();
+                    Console.WriteLine("Escribe el id de la marca:");
+                    int brandId = int.Parse(Console.ReadLine());
+                    beer.Name = name;
+                    beer.BrandId = brandId;
+                    context.Entry(beer).State = EntityState.Modified;
+                    context.SaveChanges();
+                }
+                else
+                {
+                    Console.WriteLine("Cerveza no existe");
+                }
+            }
         }
 
         public static void Delete()
