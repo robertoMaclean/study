@@ -1,7 +1,16 @@
 body {
-  background-color: red;
+  background-color: #ccc;
+  background-image: url('img/background.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-position: right bottom;
+  color: white;
 }
 
 #caja {
   border: 5px solid black;
+  padding: 10px;
+  background-color: blue;
+  color: white;
 }
