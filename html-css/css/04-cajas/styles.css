@@ -22,6 +22,11 @@ body {
   float: left;
 }
 
+#cajas {
+  max-width: 1035px;
+  border: 1px solid black;
+}
+
 .caja p {
   font-weight: bold;
   text-align: center;
