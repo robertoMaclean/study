@@ -9,7 +9,7 @@
  6. (Hecho)El contenido principal debe tener un ancho del 70%.
  7. (Hecho)El contenido dentro del contenedor principal debe ser una cuadricula con 4 lineas de 2 cajas.
  8. (Hecho)La barra lateral debe tener un ancho del 30%.
- 9. El footer debe tener un ancho del 100% del div que lo contiene y estar abajo de todo.
+ 9. (Hecho)El footer debe tener un ancho del 100% del div que lo contiene y estar abajo de todo.
 */
 * {
 	margin: 0px;
@@ -95,7 +95,16 @@
 
 #contenido > h1 {
 	text-align: center;
-	border-bottom: 1px solid #ccc;
 	padding: 15px;
 	color: #444;
+}
+
+footer {
+	width: 100%;
+	background: #eee;
+	text-align: center;
+	color: #444;
+	height: 55px;
+	line-height: 55px;
+	border-top: 1px solic #ccc;
 }
