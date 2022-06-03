@@ -3,17 +3,25 @@
  (Hecho) 1. Crear un documento HTML y vincularlo con un CSS
  (Hecho) 2. Crear una estructura HTML que cuente con un CONTENEDOR GENERAL, CABECERA,
  		MENU, BARRA LATERAL, SECCION DE CONTENIDO PRINCIPAL, ELEMENTOS DEL CONTENEDOR PRINCIPAL Y FOOTER.
- 3. Todo el contenido debe estar dentro del contenedor general y su ancho será de 1200 y estar centrado.
- 4. Header debe ocupar el 100% del ancho y tener un texto grande centrado.
+ 3. (Hecho) Todo el contenido debe estar dentro del contenedor general y su ancho será de 1200 y estar centrado.
+ 4. (Hecho)Header debe ocupar el 100% del ancho y tener un texto grande centrado.
  5. Menu debe tener los elementos uno al lado del otro
  6. El contenido principal debe tener un ancho del 70%.
  7. El contenido dentro del contenedor principal debe ser una cuadricula con 4 lineas de 2 cajas.
  8. La barra lateral debe tener un ancho del 30%.
  9. El footer debe tener un ancho del 100% del div que lo contiene y estar abajo de todo.
 */
+* {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #general {
 	width: 1200px;
 	margin: 0px auto;
+	margin-top: 20px;
 }
 
 .border {
@@ -22,4 +30,13 @@
 
 #cabecera, #footer {
 	width: 100%;
+}
+
+#header {
+	width: 100%;
+	height: 100px;
+	background: #307298;
+	color: white;
+	text-align: center;
+	line-height: 90px;
 }
