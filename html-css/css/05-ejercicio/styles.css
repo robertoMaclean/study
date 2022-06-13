@@ -88,6 +88,7 @@
 }
 
 #contenido .caja {
+	position: relative;
 	width: 40%;
 	height: 250px;
 	background-color: #ccc;
@@ -124,4 +125,22 @@ footer {
 
 .sombra-interior {
 	box-shadow: 0px 0px 20px gray inset !important;
+}
+
+.libre {
+	position: absolute;
+	top: 300px;
+	left: 50%;
+	border: 1px solid black;
+	background-color: red;
+	color: white;
+	width: 50px;
+	font-size:13px;
+}
+
+.libre2 {
+	background-color: green;
+	top: 280px;
+	left: 52%;
+	z-index: 1;
 }
