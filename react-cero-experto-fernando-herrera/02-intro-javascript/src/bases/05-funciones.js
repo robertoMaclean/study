@@ -35,6 +35,7 @@ function getUsuarioActivo( nombre ) {
 	}
 }
 
+// Resolución
 const getUsuarioActivo2 = ( nombre ) => ({
 	uid: 'ABC567',
 	username: nombre
