@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types'
 
-export const FirstApp = ( { title, subTitle } ) => {
+export const FirstApp = ({ title, subTitle, name }) => {
 	
 	// console.log( title )
 
@@ -9,6 +9,7 @@ export const FirstApp = ( { title, subTitle } ) => {
 			<h1>{ title }</h1>
 			{/*<code>{ JSON.stringify( newMessage ) }</code>*/}
 			<p>{ subTitle }</p>
+			<p>{ name }</p>
 		</>
 	)
 }
@@ -18,5 +19,10 @@ FirstApp.propTypes = {
 	subTitle: PropTypes.number
 }
 
+FirstApp.defaultProps = {
+	name: 'Rob',
+	title: 'No hay Título',
+	subTitle: 'No hay Subtitulo'
 
+}
 
