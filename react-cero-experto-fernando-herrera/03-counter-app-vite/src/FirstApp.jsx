@@ -1,17 +1,12 @@
+export const FirstApp = ( { title, subTitle } ) => {
 
-const newMessage = {
-	message: 'Hola Mundo',
-	titulo: 'Rob'
-}
+	console.log( title )
 
-const getMessage = (name) => `Hello ${name}`
-
-export const FirstApp = () => {
 	return (
 		<>
-			<h1>{ getMessage('Rob') }</h1>
+			<h1>{ title }</h1>
 			{/*<code>{ JSON.stringify( newMessage ) }</code>*/}
-			<p>Soy un subtitulo</p>
+			<p>{ subTitle }</p>
 		</>
 	)
 }
