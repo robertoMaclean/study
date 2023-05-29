@@ -1,5 +1,5 @@
-import { useState } from "react";
-import PropTypes from "prop-types";
+import { useState } from "react"
+import PropTypes from "prop-types"
 
 export const CounterApp = ({ value }) => {
 
@@ -10,7 +10,7 @@ export const CounterApp = ({ value }) => {
 
   const handleSubstract = () => {
     setCounter( counter - 1 )
-  };
+  }
 
   const handleReset = () => {
     setCounter( value )
