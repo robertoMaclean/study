@@ -9,7 +9,6 @@ export const FirstApp = ({ title, subTitle, name }) => {
       {/*<code>{ JSON.stringify( newMessage ) }</code>*/}
       <p>{subTitle}</p>
       <p>{subTitle}</p>
-      <p>{subTitle}</p>
       <p>{name}</p>
     </>
   );

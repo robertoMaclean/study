@@ -31,7 +31,7 @@ describe('Pruebas en <FirstApp />', () => {
 				subTitle = { subTitle }
 			/>) 
 
-		expect( getAllByText( subTitle ).length ).toBe( 3 )
+		expect( getAllByText( subTitle ).length ).toBe( 2 )
 
 	})
 
