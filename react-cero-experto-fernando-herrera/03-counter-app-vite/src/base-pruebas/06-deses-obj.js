@@ -1,7 +1,6 @@
 
 
 export const userContext = ({ clave, nombre, edad, rango = 'Capitán' }) => {
-    console.log( nombre, edad, rango );
     return {
         nombre: nombre,
         clave: clave,
