@@ -12,11 +12,29 @@ describe('Pruebas en <FirstApp />', () => {
 
 	test('debe mostrar el título en h1', () => {
 		const title = 'Hola, Soy Goku'
-		const { container, getByText } = render( <FirstApp title= { title } />) 
-		expect( getByText( title ) ).toBeTruthy()
+		const { container, getByText, getByTestId } = render( <FirstApp title= { title } />) 
 
-		const h1 = container.querySelector('h1')
-		expect( h1.innerHTML ).toBe( title )
+		expect( getByText( title ) ).toBeTruthy()
+		//const h1 = container.querySelector('h1')
+		//expect( h1.innerHTML ).toBe( title )
+		expect( getByTestId('test-title').innerHTML ).toContain( title )
+
 	})
+
+	test('debe de mostrar el subtítulo enviado por props', () => {
+		const title = 'Hola, Soy Goku'
+		const subTitle = 'Soy un subtitulo'
+
+		const { getAllByText } = render( 
+			<FirstApp 
+				title= { title }
+				subTitle = { subTitle }
+			/>) 
+
+		expect( getAllByText( subTitle ).length ).toBe( 3 )
+
+	})
+
+	
 
 })
