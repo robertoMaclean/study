@@ -1,6 +1,7 @@
 import { FormEvent, useState } from 'react'
+import PropTypes from 'prop-types'
 
-export const AddCategory = ({ onNewCategory }) => {
+export const AddCategory = ({ onNewCategory }: any) => {
   const [inputValue, setInputValue] = useState('')
 
   const onInputChange = (event: any) => {
@@ -25,4 +26,8 @@ export const AddCategory = ({ onNewCategory }) => {
       />
     </form>
   )
+}
+
+AddCategory.propTypes = {
+  onNewCategory: PropTypes.func,
 }
