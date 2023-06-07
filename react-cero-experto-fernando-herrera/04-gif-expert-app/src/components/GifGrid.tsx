@@ -1,13 +1,19 @@
-import {getGifts} from "../helpers/getGifs";
+import { useState, useEffect } from 'react'
+import { getGifts } from '../helpers/getGifs'
 
-export const GifGrid = ({ category, key }) => {
+export const GifGrid = ({ category }) => {
+  const [counter, setCounter] = useState(10)
 
-	getGifts( category )
+  useEffect(() => {
+    getGifts(category)
+  }, [])
 
-	return (
-		<>
-			<h3>{ category }</h3>	
-			<p>Hola Mundo</p>
-		</>
-	);
-};
+  return (
+    <>
+      <h3>{category}</h3>
+
+      <h5>{counter}</h5>
+      <button onClick={() => setCounter(counter + 1)}>+1</button>
+    </>
+  )
+}
