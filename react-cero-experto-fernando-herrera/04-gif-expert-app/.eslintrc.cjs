@@ -16,14 +16,12 @@ module.exports = {
   },
   plugins: ['react-refresh', '@typescript-eslint/eslint-plugin'],
   root: true,
-  ignorePatterns: ['.eslintrc.js'],
+  ignorePatterns: ['.eslintrc.cjs'],
   rules: {
     'react-refresh/only-export-components': 'warn',
     '@typescript-eslint/interface-name-prefix': 'off',
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     '@typescript-eslint/no-explicit-any': 'off',
-    quotemark: [1, 'single'],
-    'eslint semi': ['error', 'never'],
   },
 }
