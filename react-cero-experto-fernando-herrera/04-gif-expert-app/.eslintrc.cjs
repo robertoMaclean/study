@@ -7,17 +7,14 @@ module.exports = {
     'plugin:prettier/recommended',
   ],
   parser: '@typescript-eslint/parser',
-  parserOptions: { 
-    ecmaVersion: 'latest', 
+  parserOptions: {
+    ecmaVersion: 'latest',
     sourceType: 'module',
     project: 'tsconfig.json',
-    tsconfigRootDir : __dirname, 
+    tsconfigRootDir: __dirname,
     sourceType: 'module',
   },
-  plugins: [
-    'react-refresh',
-    '@typescript-eslint/eslint-plugin'
-  ],
+  plugins: ['react-refresh', '@typescript-eslint/eslint-plugin'],
   root: true,
   ignorePatterns: ['.eslintrc.js'],
   rules: {
@@ -26,7 +23,7 @@ module.exports = {
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     '@typescript-eslint/no-explicit-any': 'off',
-    'quotemark': [true, 'single'],
-    'eslint semi': ['error', 'never']
+    quotemark: [1, 'single'],
+    'eslint semi': ['error', 'never'],
   },
 }
