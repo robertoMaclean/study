@@ -2,3 +2,4 @@
 ios/
 android/
 *.config.cjs
+jest.setup.js
