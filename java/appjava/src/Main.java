@@ -1,20 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-        // Conversión implícita
-        byte a = 1;
-        double b = 15.15;
-        double c = a + b;
-        System.out.println(c);
+        System.out.println(Math.abs(-15));
+        System.out.println(Math.ceil(10.0001));
+        System.out.println(Math.floor(10.9999));
 
-        // Conversión explícita
-        int x = 15;
-        double y = 15.015;
-        int z = x + (int) y;
-        System.out.println(z);
+        System.out.println(Math.max(15, 25));
+        System.out.println(Math.min(15, 25));
 
-        String j = "1.1";
-        int k = 5;
-        double l = Double.parseDouble(j) + k;
-        System.out.println(l);
+        System.out.println(Math.round(15.5));
+        System.out.println((int)(Math.random()*100));
     }
 }
