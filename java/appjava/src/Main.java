@@ -1,5 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        float age = 15.5f;
+        System.out.println(age);
+
+        boolean isActive = false;
+        char curso = 'A';
+        System.out.println(isActive);
+        System.out.println(curso);
     }
 }
