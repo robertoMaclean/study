@@ -17,16 +17,17 @@ function Card(props: Props) {
   );
 }
 
-export function CardBody() {
+interface CardBodyProps {
+  title: string;
+  text: string;
+}
+
+export function CardBody(props: CardBodyProps) {
+  const { title, text } = props;
   return (
     <>
-      <h5 className="card-title">Special title treatment</h5>
-      <p className="card-text">
-        With supporting text below as a natural lead-in to additional content.
-      </p>
-      <a href="#" className="btn btn-primary">
-        Go somewhere
-      </a>
+      <h5 className="card-title">{title}</h5>
+      <p className="card-text">{text}</p>
     </>
   );
 }
