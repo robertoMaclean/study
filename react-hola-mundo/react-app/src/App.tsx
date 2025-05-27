@@ -9,12 +9,15 @@ function App() {
   const handleSelect2 = (elemento: string) => {
     console.log("mostrando", elemento);
   };
+
+  const contenido = list.length !== 0 && (
+    <List data={list} onSelect={handleSelect} />
+  );
+
   return (
     <Card>
-      {list.length !== 0 && "mi lista"}
       <CardBody title="Hola Mundo" text="Este es el texto" />
-      <List data={list} onSelect={handleSelect} />
-      <List data={list} onSelect={handleSelect2} />
+      {contenido}
     </Card>
   );
 }
