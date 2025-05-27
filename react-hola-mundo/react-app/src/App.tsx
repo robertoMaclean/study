@@ -2,7 +2,7 @@ import Card, { CardBody } from "./components/Card";
 import List from "./components/List";
 
 function App() {
-  const list = ["Goku", "Tanjiro", "Eren"];
+  const list = [];
   const handleSelect = (elemento: string) => {
     console.log("imprimiendo", elemento);
   };
@@ -11,6 +11,7 @@ function App() {
   };
   return (
     <Card>
+      {list.length !== 0 && "mi lista"}
       <CardBody title="Hola Mundo" text="Este es el texto" />
       <List data={list} onSelect={handleSelect} />
       <List data={list} onSelect={handleSelect2} />
