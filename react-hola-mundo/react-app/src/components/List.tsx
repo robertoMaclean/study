@@ -3,6 +3,8 @@ import { useState } from "react";
 type Props = {
   data: string[];
   onSelect?: (elemento: string) => void;
+  onRemove?: (elemento: string) => void;
+  onAdd?: (elemento: string) => void;
 };
 
 function List({ data, onSelect }: Props) {
@@ -17,7 +19,7 @@ function List({ data, onSelect }: Props) {
       {data.map((elemento, i) => (
         <li
           onClick={() => handleClick(i, elemento)}
-          key={elemento}
+          key={`${elemento}-${i}`}
           className={`list-group-item ${index == i ? "active" : ""}`}
         >
           {elemento}

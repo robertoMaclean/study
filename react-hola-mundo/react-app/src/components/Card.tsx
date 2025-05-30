@@ -13,7 +13,6 @@ function Card(props: Props) {
         width: "350px",
       }}
     >
-      <h5 className="card-header">Featured</h5>
       <div className="card-body">{children}</div>
     </div>
   );
