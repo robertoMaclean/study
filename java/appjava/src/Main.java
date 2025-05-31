@@ -1,14 +1,10 @@
-import java.util.Scanner;
+import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Esta es una aplicación de calculadora");
-        System.out.println("Ingresa el primer número:");
-        int firstValue = scanner.nextInt();
-        System.out.println("Ingresa el segundo número:");
-        int secondValue = scanner.nextInt();
-        System.out.println("La suma es:");
-        System.out.println(firstValue + secondValue);
+        String a = new String("Hola Mundo");
+        String b = a;
+        String c = a.toUpperCase();
+        System.out.println(c);
     }
 }
