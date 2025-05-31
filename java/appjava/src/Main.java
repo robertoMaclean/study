@@ -10,7 +10,31 @@ public class Main {
 //        completeName();
 //        average();
 //        suscription();
-        printArray();
+//        printArray();
+        isEvenAndDivisible();
+    }
+
+    private static void isEvenAndDivisible() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Ingresa un número");
+        int number = scanner.nextInt();
+        String isEvenText = isEven(number) ? "El número es par" : "El número es impar";
+        System.out.println(isEvenText);
+        if(isDivisible(number, 3) && isDivisible(number, 4)) {
+            System.out.println("Es divisible por 3 y por 4");
+        }else if(isDivisible(number, 3)) {
+            System.out.println("Es divisible por 3");
+        }else if(isDivisible(number, 4)) {
+            System.out.println("Es divisible por 4");
+        }
+    }
+
+    private static boolean isEven(int number) {
+        return number % 2 == 0;
+    }
+
+    private static boolean isDivisible(int number, int divisor) {
+        return number % divisor == 0;
     }
 
     private static void printArray() {
