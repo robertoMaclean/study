@@ -13,7 +13,114 @@ public class Main {
 //        printArray();
 //        isEvenAndDivisible();
 //        terminalApp();
-        terminalAppExercise();
+//        terminalAppExercise();
+//        discountApp();
+//        scoreCalc();
+//        userAccess();
+//        taxCalc();
+//        scoreCalcFromLetter();
+        evenCalc();
+    }
+
+    public static void evenCalc() {
+        System.out.println("Ingrese un número");
+        Scanner scanner = new Scanner(System.in);
+        final int n = scanner.nextInt();
+        int index = 0;
+        while(index <= n) {
+            String text = index % 2 == 0 ? "par" : "impar";
+            System.out.println(index + " es un número " + text);
+            index++;
+        }
+    }
+    private static void scoreCalcFromLetter() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Ingrese la nota (A, B, C, D, E): ");
+        char score = scanner.next().charAt(0);
+        String scoreRange = "";
+        if (score == 'A') {
+            scoreRange = "de 90 a 100";
+        } else if(score == 'B') {
+            scoreRange = "de 80 a 89";
+        }
+        else if(score == 'C') {
+            scoreRange = "de 70 a 79";
+        }
+        else if(score == 'D') {
+            scoreRange = "de 60 a 69";
+        }
+        else if(score == 'E') {
+            scoreRange = "es menor a 60";
+        }
+        System.out.println(String.format("la nota '%c' equivale a un rango de calificación %s", score, scoreRange));
+    }
+
+    private static void taxCalc() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Ingrese su salario anual");
+        double sal = scanner.nextDouble();
+        double taxPercent;
+        if (sal < 10000) {
+            taxPercent = (double) 5 /100;
+        } else if (sal < 30000) {
+            taxPercent = (double) 10 /100;
+        }
+        else if (sal < 60000) {
+            taxPercent = (double) 20 /100;
+        }else {
+            taxPercent = (double) 30 /100;
+        }
+        double tax = sal*taxPercent;
+        System.out.println("El impuesto a pagar es: $" + tax);
+    }
+
+    private static void userAccess() {
+        final String PASSWORD = "1234";
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Ingrese la contraseña");
+        String userPassword = scanner.next();
+        if(PASSWORD.equals(userPassword)) {
+            System.out.println("Acceso concedido.");
+        } else {
+            System.out.println("Acceso denegado.");
+        }
+    }
+
+    private static void scoreCalc() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Ingrese la nota: ");
+        int score = scanner.nextInt();
+        char finalScore;
+        if (score >= 90) {
+            finalScore = 'A';
+        } else if(score >= 80) {
+            finalScore = 'B';
+        }
+        else if(score >= 70) {
+            finalScore = 'C';
+        }
+        else if(score >= 60) {
+            finalScore = 'D';
+        }
+        else {
+            finalScore = 'F';
+        }
+        System.out.println("Tu calificación es: " + finalScore);
+    }
+
+    private static void discountApp() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Ingrese en precio del producto");
+        final double price = scanner.nextDouble();
+        System.out.println("Ingrese el % de descuento");
+        final double discount = scanner.nextDouble();
+        final double finalPrice = calcDiscount(price, discount);
+        System.out.println("El precio final es: " + finalPrice);
+    }
+
+    private static double calcDiscount(double price, double discount) {
+        double discountPercent = (discount / 100.0) * price;
+        return price - discountPercent;
     }
 
     private static void terminalAppExercise() {
@@ -95,6 +202,9 @@ public class Main {
         String[] courses = {"Ultimate Java", "Ultimate Javascript", "Ultimate Python",
                             "Ultimate React", "Ultimate Git + Github"};
         System.out.println(Arrays.toString(courses));
+        for (String course : courses) {
+            System.out.printf("course '%s'\n", course);
+        }
     }
 
     private static void suscription() {
