@@ -12,7 +12,47 @@ public class Main {
 //        suscription();
 //        printArray();
 //        isEvenAndDivisible();
-        terminalApp();
+//        terminalApp();
+        terminalAppExercise();
+    }
+
+    private static void terminalAppExercise() {
+        terminal: while (true) {
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("Ingresa opción:");
+            System.out.println("1. Calculadora");
+            System.out.println("2. Hackear la nasa");
+            System.out.println("3. Salir");
+            String option = scanner.next().toLowerCase();
+            switch (option) {
+                case "1":
+                    System.out.println("Ingrese el primer número");
+                    int a = scanner.nextInt();
+                    System.out.println("Ingrese el segundo número");
+                    int b = scanner.nextInt();
+                    calculator(a, b);
+                    break;
+                case "2":
+                    hackingNasa();
+                    break;
+                case "3":
+                    break terminal;
+            }
+        }
+    }
+
+    private static void calculator(int a, int b) {
+        int sum = a + b;
+        System.out.println("La suma es: " + sum);
+    }
+
+    private static void hackingNasa() {
+        System.out.println("Hacking Nasa \uD83D\uDE04");
+        System.out.println("#");
+        System.out.println("##");
+        System.out.println("###");
+        System.out.println("####");
+        System.out.println("Nasa is hacking! \uD83D\uDE04");
     }
 
     private static void terminalApp() {
