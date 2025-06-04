@@ -19,7 +19,12 @@ public class Main {
 //        userAccess();
 //        taxCalc();
 //        scoreCalcFromLetter();
-        evenCalc();
+//        evenCalc();
+        User user = new User("Rob");
+        User user2 = new User("John");
+
+        user.saludar();
+        user2.saludar();
     }
 
     public static void evenCalc() {
