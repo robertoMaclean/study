@@ -20,11 +20,10 @@ public class Main {
 //        taxCalc();
 //        scoreCalcFromLetter();
 //        evenCalc();
-        User user = new User("Rob");
-        User user2 = new User("John");
-
-        user.saludar();
-        user2.saludar();
+        VideoGame videoGame = new VideoGame();
+        videoGame.setName("Killer Instinct");
+        videoGame.setCategory("action");
+        System.out.println(videoGame.getCategory());
     }
 
     public static void evenCalc() {
