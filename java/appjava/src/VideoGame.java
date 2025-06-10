@@ -6,6 +6,11 @@ public class VideoGame {
     private String category;
     private static final String[] categories = {"action", "rpg", "adventure", "racing"};
 
+    public VideoGame(String name, double price) {
+        this.name = name;
+        this.price = price < 10? 10 : price;
+    }
+
     public String getName() {
         return name;
     }
@@ -23,7 +28,7 @@ public class VideoGame {
     }
 
     public String getCategory() {
-        return category;
+        return category.toUpperCase() + ".";
     }
 
     public void setCategory(String category) {

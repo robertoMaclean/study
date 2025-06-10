@@ -20,10 +20,11 @@ public class Main {
 //        taxCalc();
 //        scoreCalcFromLetter();
 //        evenCalc();
-        VideoGame videoGame = new VideoGame();
-        videoGame.setName("Killer Instinct");
+        VideoGame videoGame = new VideoGame("Killer Instinct", 9);
         videoGame.setCategory("action");
+        System.out.println(videoGame.getName());
         System.out.println(videoGame.getCategory());
+        System.out.println(videoGame.getPrice());
     }
 
     public static void evenCalc() {
