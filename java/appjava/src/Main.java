@@ -1,4 +1,5 @@
 import java.awt.*;
+import java.text.NumberFormat;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -24,7 +25,9 @@ public class Main {
         videoGame.setCategory("action");
         System.out.println(videoGame.getName());
         System.out.println(videoGame.getCategory());
-        System.out.println(videoGame.getPrice());
+        NumberFormat currencyFormatter = NumberFormat.getCurrencyInstance();
+        String formattedPrice = currencyFormatter.format(videoGame.getPrice());
+        System.out.println(formattedPrice);
     }
 
     public static void evenCalc() {
@@ -57,7 +60,7 @@ public class Main {
         else if(score == 'E') {
             scoreRange = "es menor a 60";
         }
-        System.out.println(String.format("la nota '%c' equivale a un rango de calificación %s", score, scoreRange));
+        System.out.printf("la nota '%c' equivale a un rango de calificación %s%n", score, scoreRange);
     }
 
     private static void taxCalc() {
