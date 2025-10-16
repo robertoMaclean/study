@@ -8,7 +8,8 @@ public class Categorias extends Base {
     }
 
     public String miMetodo() {
-        return "Chao mundo";
+        String saludo = super.miMetodo();
+        return "Chao mundo " + saludo;
     }
 
 }
