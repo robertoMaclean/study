@@ -12,4 +12,15 @@ public class Categorias extends Base {
         return "Chao mundo " + saludo;
     }
 
+    public void metodoCategoria() {
+        System.out.println("Soy instancia de cartegoria");
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if(!(obj instanceof Categorias))
+            return super.equals(obj);
+        var c = (Categorias) obj;
+        return this.getName().equals(c.name);
+    }
 }
