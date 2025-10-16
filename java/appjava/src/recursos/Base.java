@@ -4,6 +4,10 @@ public class Base {
 
     String name;
 
+    public Base(String x) {
+        System.out.println("soy Base");
+    }
+
     public String getName() {
         return name;
     }
