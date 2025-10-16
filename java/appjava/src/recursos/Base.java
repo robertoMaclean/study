@@ -2,10 +2,10 @@ package recursos;
 
 public class Base {
 
-    String name;
+    protected String name;
 
-    public Base(String x) {
-        System.out.println("soy Base");
+    public Base(String name ) {
+        name = name;
     }
 
     public String getName() {
@@ -14,5 +14,9 @@ public class Base {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String miMetodo() {
+        return "Hola mundo";
     }
 }
