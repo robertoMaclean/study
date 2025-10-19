@@ -7,11 +7,6 @@ public class Categorias extends Base {
         System.out.println("soy Categorias");
     }
 
-    public String miMetodo() {
-        String saludo = super.miMetodo();
-        return "Chao mundo " + saludo;
-    }
-
     public void metodoCategoria() {
         System.out.println("Soy instancia de cartegoria");
     }
