@@ -1,6 +1,6 @@
 package recursos;
 
-public class Base {
+public abstract class Base {
 
     protected String name;
 
@@ -19,4 +19,6 @@ public class Base {
     public String miMetodo() {
         return "Hola mundo";
     }
+
+    public abstract void guardar();
 }
