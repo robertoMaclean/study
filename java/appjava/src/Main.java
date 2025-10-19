@@ -1,18 +1,11 @@
-import recursos.*;
-
+import genericos.Lista;
 
 public class Main {
     public static void main(String[] args) {
-        Garzon g1 = new Garzon();
-        Garzon g2 = new Garzon();
-        Garzon g3 = new Garzon();
-        Cocinero c = new Cocinero();
-        Restaurante r = new Restaurante();
-        r.setGarzones(new Atendible[]{ g1, g2, g3, c });
-        r.llevarCervezas();
+        Lista<Integer> lista = new Lista<>();
+        lista.add(12);
+        lista.add(32);
 
-        Cocinable cs = new Cocinero();
-
-
+        var elemento = lista.get(0);
     }
 }
