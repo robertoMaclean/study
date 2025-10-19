@@ -29,24 +29,30 @@ public class Demo {
     }
 
     public static void comprobado() {
-        FileReader fr = null;
-        try {
-            FileReader fr = new FileReader("archivo.txt");
+        try (
+                FileReader fr = new FileReader("archivo.txt");
+                FileReader fr2 = new FileReader("archivo.txt");
+            ) {
             var data = fr.read();
         } catch (IOException e) {
             e.printStackTrace();
             System.out.println("Archivo no existe");
-        } finally{
-            try {
-                if(fr != null){
-                    fr.close();
-                }
-            } catch (IOException e) {
-                System.out.println("Error al cerrar el archivo");;
-            }
-
-
         }
         System.out.println("App continua...");
+    }
+
+    public static void verificarEdad(int edad) throws IOException {
+        if(edad < 0) {
+            throw new IOException("La edad debe ser positiva");
+        }
+    }
+
+    public static void start() throws IOException {
+        try {
+            verificarEdad(-1);
+        } catch (IOException e) {
+            System.out.println("Error verificando edad");
+            throw e;
+        }
     }
 }
