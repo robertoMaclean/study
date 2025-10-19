@@ -29,12 +29,24 @@ public class Demo {
     }
 
     public static void comprobado() {
+        FileReader fr = null;
         try {
-            FileReader fr = new FileReader("archivo inexistente");
-            var x = 10/0;
-        } catch (FileNotFoundException | ArithmeticException e) {
+            FileReader fr = new FileReader("archivo.txt");
+            var data = fr.read();
+        } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("archivo inexistente o dividiste por zero");
+            System.out.println("Archivo no existe");
+        } finally{
+            try {
+                if(fr != null){
+                    fr.close();
+                }
+            } catch (IOException e) {
+                System.out.println("Error al cerrar el archivo");;
+            }
+
+
         }
+        System.out.println("App continua...");
     }
 }
