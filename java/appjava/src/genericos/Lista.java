@@ -1,6 +1,6 @@
 package genericos;
 
-public class Lista<T extends Number> {
+public class Lista<T extends Atendible & Comparable> {
     private T[] data = (T[]) new Object[50];
     private int length = 0;
 
