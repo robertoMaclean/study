@@ -1,8 +1,7 @@
-import streams.Creacion;
-import streams.DemoMap;
+import streams.Slice;
 
 public class Main {
     public static void main(String[] args) {
-        DemoMap.run();
+        Slice.run();
     }
 }
