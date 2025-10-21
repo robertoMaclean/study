@@ -1,7 +1,11 @@
-import streams.Slice;
+import streams.Collector;
+
+import java.util.stream.IntStream;
+
 
 public class Main {
     public static void main(String[] args) {
-        Slice.run();
+//        Collector.grouping();
+        IntStream.rangeClosed(1, 5).forEach(System.out::println);
     }
 }
