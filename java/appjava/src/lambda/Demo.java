@@ -1,14 +1,14 @@
 package lambda;
 
 public class Demo {
+
+    private static String texto = "Imprimiendo de lambda: ";
     public static void run() {
-        push(new Notificable() {
-            @Override
-            public void push(String message) {
-                System.out.println("Enviado desde clas anonima: " + message);
-            }
-        });
-        push((message) -> System.out.println("Imprimiendo de lambda: " + message));
+
+        Notificable lambda = message -> {
+            System.out.println(texto + message);
+        };
+        push(lambda);
     }
 
     public static void push(Notificable n)  {
