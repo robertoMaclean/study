@@ -1,14 +1,7 @@
-import colecciones.*;
-import lambda.Demo;
-
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-
+import streams.Creacion;
 
 public class Main {
     public static void main(String[] args) {
-        Demo.combinacion();
+        Creacion.creacion();
     }
 }
