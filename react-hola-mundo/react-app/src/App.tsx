@@ -1,18 +1,25 @@
 import { useState } from "react";
 
 function App() {
-  let numero = 0;
-  const [count, setCount] = useState(0);
-  console.log(new Date().getTime());
+  const [products, setProducts] = useState([{ id: 1, name: "Iphone" }]);
+
   const handleClick = () => {
-    numero++;
-    setCount(count + 1);
+    const newProduct = { id: 2, name: "Android" };
+    // const newProducts = [newProduct, ...products];
+    const newProducts = products.map((product) =>
+      product.id === 1 ? { ...product, name: "Windows" } : product
+    );
+    setProducts(newProducts);
   };
 
   return (
     <div>
       <button onClick={handleClick}>Enviar</button>
-      {new Date().getTime()}
+      <ul>
+        {products.map((product) => (
+          <li key={product.id}>{product.name}</li>
+        ))}
+      </ul>
     </div>
   );
 }
