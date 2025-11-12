@@ -1,11 +1,13 @@
-import { FormEvent } from "react";
+import { FormEvent, useRef, useState } from "react";
 
 type Props = {};
 
 function Form() {
+  const [user, setUser] = useState({ name: "", lastname: "" });
+
   const handleSubmit = (event: FormEvent) => {
     event.preventDefault();
-    console.log("Enviando...");
+    console.log(user);
   };
   return (
     <form onSubmit={handleSubmit}>
@@ -13,13 +15,25 @@ function Form() {
         <label htmlFor="name" className="form-label">
           Nombre
         </label>
-        <input type="text" id="name" className="form-constrol" />
+        <input
+          value={user.name}
+          onChange={(e) => setUser({ ...user, name: e.target.value })}
+          type="text"
+          id="name"
+          className="form-constrol"
+        />
       </div>
       <div className="mb-3">
         <label htmlFor="lastname" className="form-label">
           Apellido
         </label>
-        <input type="text" id="lastnamea" className="form-constrol" />
+        <input
+          value={user.lastname}
+          onChange={(e) => setUser({ ...user, lastname: e.target.value })}
+          type="text"
+          id="lastnamea"
+          className="form-constrol"
+        />
       </div>
       <button className="btn btn-primary">Enviar</button>
     </form>
