@@ -1,42 +1,29 @@
-import { FormEvent, useRef, useState } from "react";
-
-type Props = {};
+import { FormProvider, useForm } from "react-hook-form";
+import { userSchema, userForm } from "../schemas/user";
+import { zodResolver } from "@hookform/resolvers/zod";
+import Input from "./Input";
 
 function Form() {
-  const [user, setUser] = useState({ name: "", lastname: "" });
+  const methods = useForm<userForm>({
+    resolver: zodResolver(userSchema),
+  });
 
-  const handleSubmit = (event: FormEvent) => {
-    event.preventDefault();
-    console.log(user);
+  const onSubmit = (data: userForm) => {
+    try {
+      const x = userSchema.parse(data);
+      console.log(x);
+    } catch (e) {
+      console.log(e);
+    }
   };
   return (
-    <form onSubmit={handleSubmit}>
-      <div className="mb-3">
-        <label htmlFor="name" className="form-label">
-          Nombre
-        </label>
-        <input
-          value={user.name}
-          onChange={(e) => setUser({ ...user, name: e.target.value })}
-          type="text"
-          id="name"
-          className="form-constrol"
-        />
-      </div>
-      <div className="mb-3">
-        <label htmlFor="lastname" className="form-label">
-          Apellido
-        </label>
-        <input
-          value={user.lastname}
-          onChange={(e) => setUser({ ...user, lastname: e.target.value })}
-          type="text"
-          id="lastnamea"
-          className="form-constrol"
-        />
-      </div>
-      <button className="btn btn-primary">Enviar</button>
-    </form>
+    <FormProvider {...methods}>
+      <form onSubmit={methods.handleSubmit(onSubmit)}>
+        <Input name="name">Nombre</Input>
+        <Input name="lastname">Apellido</Input>
+        <button className="btn btn-primary">Enviar</button>
+      </form>
+    </FormProvider>
   );
 }
 
