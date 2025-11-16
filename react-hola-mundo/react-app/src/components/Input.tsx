@@ -1,13 +1,12 @@
-import { ReactNode } from "react";
+import React, { Children, ReactNode } from "react";
 import { useFormContext } from "react-hook-form";
 
-interface Props {
+type Props = {
   name: string;
-  children?: ReactNode;
-  type?: string;
-}
+  children: ReactNode;
+};
 
-function Input({ name, children, type }: Props) {
+function Input({ name, children }: Props) {
   const { register, formState, getFieldState } = useFormContext();
   const { error } = getFieldState(name, formState);
   return (
@@ -18,12 +17,11 @@ function Input({ name, children, type }: Props) {
       <input
         {...register(name)}
         type="text"
-        id="name"
-        className="form-constrol"
+        className="form-control"
+        id={name}
       />
       {error?.message && <div className="text-danger">{error.message}</div>}
     </div>
   );
 }
-
 export default Input;

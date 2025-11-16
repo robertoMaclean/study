@@ -1,12 +1,13 @@
-import Reac, { ReactNode } from "react";
+import React from "react";
 
+type variant = "primary" | "secondary" | "warning";
 type Props = {
-  children: ReactNode;
-  onClick: () => void;
+  variant?: variant;
+  children?: React.ReactNode;
 };
 
-function ProductList({ children, onClick }: Props) {
-  return <button onClick={onClick}>{children}</button>;
+function Button({ variant = "primary" }: Props) {
+  return <button className={`btn btn-${variant}`}>Enviar</button>;
 }
 
-export default ProductList;
+export default Button;

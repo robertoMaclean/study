@@ -1,11 +1,7 @@
-import Form from "./components/Form";
+import CMS from "./components/CMS";
 
 function App() {
-  return (
-    <div className="container">
-      <Form />
-    </div>
-  );
+  return <CMS />;
 }
 
 export default App;
