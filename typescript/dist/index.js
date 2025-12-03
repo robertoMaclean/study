@@ -63,4 +63,55 @@ function validaEdad(edad, msg = 'Chanchito feliz') {
     return 'no puedes ingresar';
 }
 validaEdad(20, 'hola mundo');
+function ErrorUsuario() {
+    throw new Error('Error en el usuario');
+}
+let puntaje = 98;
+puntaje = 'hola mundo';
+let animal = { id: 1, estado: '', name: '' };
+function sumaDos(n) {
+    if (typeof n === 'number') {
+        return n + 2;
+    }
+    return parseInt(n) + 2;
+}
+sumaDos('2');
+console.log('suma de dos más dos', 2 + '2');
+const product = {
+    name: '',
+    created_at: '',
+    modified_at: ''
+};
+const nDeFibo = 5;
+function toNumber(s) {
+    if (!s) {
+        return 0;
+    }
+    return parseInt(s);
+}
+const n = toNumber(null);
+function getUser(id) {
+    if (id < 0)
+        return null;
+    return {
+        id: 1,
+        name: 'Felipe',
+        created_at: new Date()
+    };
+}
+const user = getUser(1);
+console.log('usuario', user?.created_at);
+if (user && user.created_at) {
+    console.log(user.created_at);
+}
+const arr1 = null;
+console.log(arr1?.[0]);
+const fn5 = null;
+console.log(fn5?.());
+const difficulty = 0;
+const user2 = {
+    username: 'chanchito feliz',
+    difficulty: difficulty ?? 1
+};
+console.log('user2', user2);
 //# sourceMappingURL=index.js.map

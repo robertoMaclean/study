@@ -84,3 +84,98 @@ validaEdad(20, 'hola mundo')
 function ErrorUsuario(): never {
     throw new Error('Error en el usuario')
 }
+
+let puntaje: number | string = 98
+
+puntaje = 'hola mundo'
+
+type Animal = {
+    id: number,
+    estado: string
+}
+
+type Usuario = {
+    id: number,
+    name: string
+}
+
+let animal: Usuario | Animal = { id: 1, estado: '', name: '' }
+
+function sumaDos(n: number | string): number {
+    if(typeof n === 'number') { 
+        return n + 2;
+    }
+    return parseInt(n) + 2
+
+}
+
+sumaDos('2')
+console.log('suma de dos más dos', 2 + '2')
+
+type Audit = {
+    created_at: string,
+    modified_at: string
+}
+
+type Product = {
+    name: string,
+}
+
+const product: Audit & Product = {
+    name: '',
+    created_at: '',
+    modified_at: ''
+}
+
+type fibo = 0 | 2 | 3 | 5
+const nDeFibo: fibo = 5;
+
+function toNumber(s: string | null | undefined) {
+    if(!s) {
+        return 0
+    }
+    return parseInt(s)
+}
+
+const n = toNumber(null)
+
+function getUser(id: number) {
+    if(id < 0)
+        return null
+    return {
+        id: 1,
+        name: 'Felipe',
+        created_at: new Date()
+    }
+}
+
+const user = getUser(1)
+console.log('usuario', user?.created_at)
+
+if(user && user.created_at) {
+    console.log(user.created_at)
+}
+
+const arr1 = null
+
+console.log(arr1?.[0])
+
+const fn5: any = null
+
+console.log(fn5?.())
+
+const difficulty: number | null = 0
+
+const user2 = {
+    username: 'chanchito feliz',
+    difficulty: difficulty ?? 1
+}
+
+console.log('user2', user2)
+
+const elem: any = null;
+
+const elem1 = elem as number
+
+const input = <HTMLInputElement>document.getElementById('username') ;
+
