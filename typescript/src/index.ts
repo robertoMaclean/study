@@ -198,12 +198,14 @@
 // }
 
 class Personaje {
-    id: number
-    name: string
-    nivel: number
-    hp: number
+  
+    profesion?: string
 
-    constructor(id: number, name: string, nivel: number, hp: number) {
+    constructor(
+        public readonly id: number, 
+        public name: string, 
+        public nivel: number, 
+        private hp: number) {
         this.id = id
         this.name = name
         this.nivel = nivel
@@ -215,13 +217,24 @@ class Personaje {
     }
 
     cambiarHP(cantidad: number): number {
+        // no pasarse del maximo
         return this.hp += cantidad
+    }
+
+    getHp(): number {
+        return this.hp
+    }
+
+    setHp(cantidad: number) {
+        this.hp += cantidad
     }
 }
 
 const personaje = new Personaje(1, 'Nicolas', 1, 100)
-personaje.cambiarHP(-10)
+personaje.setHp(20)
+// personaje.cambiarHP(-10)
 console.log('personaje', personaje)
+
 
 
 

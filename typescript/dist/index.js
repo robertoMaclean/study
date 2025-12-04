@@ -157,7 +157,12 @@ class Personaje {
     name;
     nivel;
     hp;
+    profesion;
     constructor(id, name, nivel, hp) {
+        this.id = id;
+        this.name = name;
+        this.nivel = nivel;
+        this.hp = hp;
         this.id = id;
         this.name = name;
         this.nivel = nivel;
@@ -167,10 +172,18 @@ class Personaje {
         return this.nivel += 1;
     }
     cambiarHP(cantidad) {
+        // no pasarse del maximo
         return this.hp += cantidad;
+    }
+    getHp() {
+        return this.hp;
+    }
+    setHp(cantidad) {
+        this.hp += cantidad;
     }
 }
 const personaje = new Personaje(1, 'Nicolas', 1, 100);
-personaje.cambiarHP(-10);
+personaje.setHp(20);
+// personaje.cambiarHP(-10)
 console.log('personaje', personaje);
 //# sourceMappingURL=index.js.map
