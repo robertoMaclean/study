@@ -200,7 +200,7 @@
 class Personaje {
   
     profesion?: string
-
+    private static equipo: number = 1
     constructor(
         public readonly id: number, 
         public name: string, 
@@ -216,6 +216,10 @@ class Personaje {
         return this.nivel += 1
     }
 
+    static agregarPersonaje(): void {
+        Personaje.equipo++
+    }
+
     cambiarHP(cantidad: number): number {
         // no pasarse del maximo
         return this.hp += cantidad
@@ -225,16 +229,19 @@ class Personaje {
         return this.hp
     }
 
-    setHp(cantidad: number) {
-        this.hp += cantidad
+    getEquipo(): number {
+        return Personaje.equipo
     }
+
 }
 
 const personaje = new Personaje(1, 'Nicolas', 1, 100)
-personaje.setHp(20)
-// personaje.cambiarHP(-10)
-console.log('personaje', personaje)
+personaje.cambiarHP(-10)
 
+
+const personaje1 = new Personaje(2, 'Chanchito', 1, 120)
+Personaje.agregarPersonaje()
+console.log(personaje.getEquipo())
 
 
 

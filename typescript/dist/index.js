@@ -158,6 +158,7 @@ class Personaje {
     nivel;
     hp;
     profesion;
+    static equipo = 1;
     constructor(id, name, nivel, hp) {
         this.id = id;
         this.name = name;
@@ -171,6 +172,9 @@ class Personaje {
     subirNivel() {
         return this.nivel += 1;
     }
+    static agregarPersonaje() {
+        Personaje.equipo++;
+    }
     cambiarHP(cantidad) {
         // no pasarse del maximo
         return this.hp += cantidad;
@@ -178,12 +182,13 @@ class Personaje {
     getHp() {
         return this.hp;
     }
-    setHp(cantidad) {
-        this.hp += cantidad;
+    getEquipo() {
+        return Personaje.equipo;
     }
 }
 const personaje = new Personaje(1, 'Nicolas', 1, 100);
-personaje.setHp(20);
-// personaje.cambiarHP(-10)
-console.log('personaje', personaje);
+personaje.cambiarHP(-10);
+const personaje1 = new Personaje(2, 'Chanchito', 1, 120);
+Personaje.agregarPersonaje();
+console.log(personaje.getEquipo());
 //# sourceMappingURL=index.js.map
