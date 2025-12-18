@@ -29,6 +29,9 @@ class Producto extends DatosBasicos {
     get fullDesc() {
         return 'Producto:' + super.fullDesc;
     }
+    guardar() {
+        console.log('Guardando producto...');
+    }
 }
 class Categoria extends DatosBasicos {
     productos = [];
@@ -40,6 +43,9 @@ class Categoria extends DatosBasicos {
     }
     get fullDesc() {
         return 'Categoria:' + super.fullDesc;
+    }
+    guardar() {
+        console.log('Guardando categoria...');
     }
 }
 let producto1 = new Producto(100, 1, 'iPhhone', 'Un telefono de la marca Apple', new Date(), 1);

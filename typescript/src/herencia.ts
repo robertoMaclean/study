@@ -1,9 +1,9 @@
-class DatosBasicos {
+abstract class DatosBasicos {
     constructor(
         public name: string,
         public desc: string,
-        public created_at: Date,
-        public created_by: number
+        protected created_at: Date,
+        protected created_by: number
     ) { }
 
     get fullYear() {
@@ -13,6 +13,8 @@ class DatosBasicos {
     get fullDesc() {
         return `${this.name} - ${this.desc}`
     }
+
+    abstract guardar(): void;
 }
 
 class Producto extends DatosBasicos {
@@ -30,6 +32,10 @@ class Producto extends DatosBasicos {
 
     override get fullDesc() {
         return 'Producto:' + super.fullDesc
+    }
+
+    guardar() {
+        console.log('Guardando producto...')
     }
 }
 
@@ -52,6 +58,9 @@ class Categoria extends DatosBasicos {
 
     override get fullDesc() {
         return 'Categoria:' + super.fullDesc
+    }
+    guardar() {
+        console.log('Guardando categoria...')
     }
 }
 
