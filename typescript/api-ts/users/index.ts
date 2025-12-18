@@ -1,0 +1,19 @@
+import { Router } from 'express';
+
+export const router = Router();
+
+type Usuario = {
+    id: string,
+    name: string
+}
+router.get('/', (req, res) => {
+    res.send('Hello, World!');
+});
+
+router.post('/', (req, res) => {
+    const { name } = req.body as Usuario
+    console.log(name)
+    res.send('ok')
+})
+
+export default router;
